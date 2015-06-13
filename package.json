@@ -1,0 +1,47 @@
+{
+  "name": "postcssquickstart",
+  "version": "0.0.1",
+  "description": "Quickstart Repo for easily using postcss in your projects.",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer-core": "^5.2.0",
+    "csswring": "^3.0.5",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-postcss": "^5.1.8",
+    "gulp-rename": "^1.2.2",
+    "postcss-mixins": "^0.3.0",
+    "postcss-nested": "^0.3.2",
+    "postcss-simple-vars": "^0.3.0"
+  },
+  "devDependencies": {
+    "autoprefixer-core": "^5.2.0",
+    "csswring": "^3.0.5",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.5.2",
+    "gulp-postcss": "^5.1.8",
+    "gulp-rename": "^1.2.2",
+    "postcss-mixins": "^0.3.0",
+    "postcss-nested": "^0.3.2",
+    "postcss-simple-vars": "^0.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YurkaninRyan/PostCSSQuickStart.git"
+  },
+  "keywords": [
+    "PostCSS",
+    "Bootstrap",
+    "Web",
+    "Development"
+  ],
+  "author": "Ryan Yurkanin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YurkaninRyan/PostCSSQuickStart/issues"
+  },
+  "homepage": "https://github.com/YurkaninRyan/PostCSSQuickStart#readme"
+}
